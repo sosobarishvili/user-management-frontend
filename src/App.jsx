@@ -5,7 +5,7 @@ import axios from 'axios';
 import Router from './router/Router';
 
 
-axios.defaults.baseURL = 'https://user-management-api-aqqd.onrender.com';
+axios.defaults.baseURL = 'https://user-management-backend-bzcg.onrender.com/';
 
 function App() {
   return (
